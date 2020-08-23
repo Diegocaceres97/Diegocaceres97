@@ -1,5 +1,5 @@
- Hi there 👋
-Here are some ideas to get you started:
+ Hi there strange👋
+
 
 - 🔭 I’m currently working on my personal project
 - 🌱 I’m currently learning more about Javascript and CSS
