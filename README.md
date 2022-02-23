@@ -1,7 +1,7 @@
 Hola extraño/Hi there strange👋
 
 
-- 🔭 I’m currently working on my personal project
+- 🔭 I’m currently working on my project and a company called pragma
 - 🌱 I’m currently learning more about Javascript and CSS
 - 🤖I'm currently working like a android developer
 - 🤔 I’m looking for help with my personal projects
